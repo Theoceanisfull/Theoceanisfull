@@ -14,14 +14,15 @@ I'm a **Data Analyst**, **Influence Strategist**, and **aspiring AI/ML Engineer*
 
 ## 🛠️ Top Skills & Technologies
 
-- **Languages**: Python, SQL, Bash  
-- **Frameworks & Libraries**: PyTorch, scikit-learn, Hugging Face Transformers, Streamlit, pandas, matplotlib  
-- **Tools**: Power BI, Tableau, Git, VSCode, Jupyter  
+- **Languages**: Python, SQL, R, Bash
+- **Frameworks & Libraries**: PyTorch, Langchain, NLTK, SpaCy, Scikit-learn, Hugging Face Transformers, Gradio, Pandas, Matplotlib, Plotly, Seaborn
+- **Tools**: Power BI, Tableau, Git, VSCode, Jupyter notebook  
 - **Cloud & DevOps**: AWS (EC2, S3, VPC, CloudFormation), Docker (basic)  
 - **Specialties**:  
-  - Natural Language Processing (NLP)  
+  - Natural Language Processing (NLP)
+  - Retrieval Augmented Generation (RAG)  
   - Aspect-Based Sentiment Analysis (ABSA)  
-  - Entity Resolution  
+  - NLP based Entity Resolution  
   - Machine Learning & Model Evaluation  
   - Strategic Communication & Influence Modeling
 
@@ -30,11 +31,14 @@ I'm a **Data Analyst**, **Influence Strategist**, and **aspiring AI/ML Engineer*
 ## 🚀 Featured Projects
 
 - **🧠 Political Sentiment Analysis**  
-  Aspect-Based Sentiment Analysis (ABSA) on U.S. State of the Union speeches + YouTube comments using hybrid rule-based and ML/NLP methods
+  Aspect-Based Sentiment Analysis (ABSA) on U.S. State of the Union speeches + YouTube comments using hybrid rule-based and ML/NLP methods.
 
 - **🏡 Real Estate Investment Platform**  
   Zillow-based data analysis pipeline to rank top U.S. housing markets using appreciation, rent growth, inventory, and price-to-rent ratios
-
+  
+- **🏡 RAG Whitepaper Generator**  
+  Combining the power of LLMs with information retrieval strategy to format and edit whitepaper drafts. 
+  
 - **🕵️ Contextual Entity Resolution Model**  
   Designed a custom NER + alias detection system to track identities in disinformation/propaganda networks using sentence-transformers
 
@@ -90,6 +94,7 @@ Transitioning from military operations into advanced AI/ML research and strategi
 - **spaCy** – Tokenization, entity recognition, and syntactic analysis  
 - **NLTK / TextBlob** – Lexicon-based sentiment and basic NLP pipelines  
 - **PyMuPDF / Tesseract / PDFMiner** – OCR and document parsing from PDFs
+- **Langchain RAG** – Building retrieval augmented generation system with Langchain
 
 ---
 
@@ -107,29 +112,6 @@ Transitioning from military operations into advanced AI/ML research and strategi
 
 ---
 
----
-
-## 🚀 Featured Projects
-
-- **🧠 Political Sentiment Analysis**  
-  Aspect-Based Sentiment Analysis (ABSA) on U.S. State of the Union speeches + YouTube comments using hybrid rule-based and ML/NLP methods with SpaCy
-
-- **🏡 Real Estate Investment Platform**  
-  Zillow-based data analysis pipeline to rank top U.S. housing markets using appreciation, rent growth, inventory, and price-to-rent ratios
-
-- **🕵️ Contextual Entity Resolution Model**  
-  Working on a custom NER + alias detection system to track identities in disinformation/propaganda networks using sentence-transformers
-
----
-
-## 🧠 Bio
-
-> *"I specialize in building AI systems that understand people—not just data."*
-
-Transitioning from military operations into advanced AI/ML research and strategic decision science. I’m passionate about scalable AI, cognitive modeling, and applying psychological principles to machine learning workflows.
-
----
-
 ## 🔗 Connect With Me
 
 - [LinkedIn](www.linkedin.com/in/zachary-johnson-scott-94a58029a)  
@@ -144,7 +126,8 @@ Transitioning from military operations into advanced AI/ML research and strategi
 - Strength training & endurance rucking  
 - Real estate analytics & market tracking  
 - Investigating propaganda and narrative warfare  
-- Teaching and mentoring emerging data scientists
+- Teaching and mentoring others
+- Building AI system that reduce workloads
 
 ---
 
